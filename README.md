@@ -2,7 +2,7 @@
 (en)
 <ol type="I">
   <h1><li>Description:</h1>
-  This is a frontend frontend for my thesis. My thesis was: "Implementation of E-diary in frameworks NestJS and Vue.js". This project is meant to be use alongside: https://github.com/Enkeiie/e-dziennik-backend. It offers: <ol type="1">
+  This is a frontend for my thesis. My thesis was: "Implementation of E-diary in frameworks NestJS and Vue.js". This project is meant to be use alongside: https://github.com/Enkeiie/e-dziennik-backend. It offers: <ol type="1">
   <li>Admin panel that allows him to manage users, classes, subjects, parents</li>
   <li>Teacher panel that gives him ability to create and order tests, grade students and check their presence as well as to browse homeroom class grades and presences</li>
   <li>Student panel which allows him to see grades and presences as well as take part in tests</li>
